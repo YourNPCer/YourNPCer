@@ -6,4 +6,4 @@
 - 📫 How to reach me: **ailuoadam@gmail.com**
 
 ---
-*“拒绝抽象病，站在人这边”*
+*“拒绝抽象病，站在人这边”*- ⚡ Fun fact: I am learning to create branches!
