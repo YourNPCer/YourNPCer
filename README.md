@@ -4,7 +4,10 @@
 - 🌱 I’m currently learning **GitHub & Systematic Thinking & AI**
 - 💬 Ask me about **Philosophy, Reading, and Finance**
 - 📫 How to reach me: **ailuoadam@gmail.com**
-
+- [点击访问我的博客](https://yournpc.vercel.app/)
 ---
 *“拒绝抽象病，站在人这边”*- ⚡ Fun fact: I am learning to create branches!
 - 💻 I am using VS Code now!
+
+```python
+print("Hello, GitHub!")
